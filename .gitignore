@@ -1,0 +1,10 @@
+Code/codegen/
+Code/cache/
+Design/DriverSwRequest/pipeline/analyze/
+Code/
+Design/crs_controller/pipeline/analyze/
+Design/CruiseControlMode/pipeline/analyze/
+Design/TargetSpeedThrottle/pipeline/analyze/
+Design/TargetSpeedThrottle/pipeline/pipeline/analyze/
+sldv_output/
+m2m_crs_controller/
